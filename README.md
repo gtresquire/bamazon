@@ -19,7 +19,7 @@ Prompts users with two messages.
 
    * The first message asks for the ID of the product they would like to buy.
  
-   <img src="/gtresquire/bamazon/blob/master/Step%201.png" alt="step 1" style="max-width:100%;">
+   <img src="/gtresquire/bamazon/blob/master/Step 1.png" alt="step 1" style="max-width:100%;">
 
  
    * The second message asks how many units of the product they would like to buy.
