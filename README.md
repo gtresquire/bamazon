@@ -18,6 +18,8 @@ Customer View:
 Prompts users with two messages.
 
    * The first message asks for the ID of the product they would like to buy.
+   
+   https://github.com/gtresquire/bamazon/blob/master/Step%201.png
  
  
    * The second message asks how many units of the product they would like to buy.
