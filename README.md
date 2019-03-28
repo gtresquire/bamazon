@@ -1,11 +1,19 @@
 # bamazon
-node app using mysql backend allows users to search for product information
+Node.js app using Mysql backend allows users to search for product information. 
+
+To run this app you will need to clone this repo and install "inquirer": "^6.2.2",
+and "mysql": "^2.16.0".  
+
+You will also need to insert your Mysql password in the bamazonCustomer.js file as indicated below.
+// Your password
+  password: "yourpassword",
+  database: "bamazonDB"
 
 ## Overview
 
 Welcome to bamazon storefront application. This app will take in orders from customers and deplete stock from the store's inventory. 
 
-Customer View 
+Customer View:
  
 Prompts users with two messages.
 
